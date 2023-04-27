@@ -2,7 +2,6 @@
 
 Tired of all the annoying advertisements in your inbox, We have resolved to create a program that can filter out spam emails. Our spam detector uses a unigram approach to analyze each word in an email and determine whether or not it is spam. The program calculates probabilities based on each word's frequency, allowing it to distinguish between spam and legitimate emails with high accuracy. To train the system, We have used a dataset of emails (spam and non-spam) and have written the SpamDetector class to read, test, and train the model. With many samples to use, my program is well-equipped to filter out unwanted messages and improve my overall email experience. Our algorithm is 86% accurate and 81% precise so you know 8 times out of 10 our algorithm has got your back
 
-![Screenshot](projectphoto1.jpg)
 
 ![Screenshot](projectphoto.jpg)
 
